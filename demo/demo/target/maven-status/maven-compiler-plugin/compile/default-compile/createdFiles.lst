@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\service\StudentService.class
+com\example\demo\service\StudentServiceImpl.class
+com\example\demo\bean\Student.class
+com\example\demo\respository\StudentRepository.class
+com\example\demo\controller\StudentController.class
